@@ -1,3 +1,5 @@
+# THIS IS ALL FUNCTIONS USED IN SIMULATION STUDY OF SPARSE TEMPORAL DISAGGREGATION PAPER
+
 ## Packages ##
   library(lars)
   library(tempdisagg)
